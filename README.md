@@ -27,11 +27,3 @@ Guess a number between 1 and 100:
 
 
 Made with ❤️ while learning Java.
-
-
-Let me know if you want to add:
-- A logo or badge section
-- GitHub actions or `.gitignore`
-- Multiple difficulty levels in the game
-
-I can customize it for you!
